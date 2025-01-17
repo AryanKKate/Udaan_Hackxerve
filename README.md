@@ -4,8 +4,8 @@
 
 Clone the repository : 
 ```bash
-   git clone https://github.com/AryanKKate/NITS-7.0.git
-   cd NITS-7.0
+   git clone https://github.com/AryanKKate/Udaan_Hackxerve.git
+   cd Udaan_Hackxerve
    ```
 
 Navigate to the frontend folder , install dependencies & start server: 
